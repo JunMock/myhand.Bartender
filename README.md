@@ -64,11 +64,6 @@
 - [Slack](https://www.slack.com)
 - [캡슐 개발 전용 Studio](https://bixbydevelopers.com/)
 
-## 회의록
-
-### [0930 회의](/회의록/0930)
-
-### [1003 회의](/회의록/1003)
 
 ## 구현 정보
 
