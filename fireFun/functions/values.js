@@ -12,7 +12,7 @@ values.category = [
   "비오는 날과 잘 어울리는",
   "취하고 싶은 날 마시기 좋은",
   "입안가득 청량해지는 칵테일",
-  "모두에게 사랑받는 베스트 칵테일"
+  "모두에게 사랑받는 베스트 칵테일",
 ];
 values.img = [
   "https://firebasestorage.googleapis.com/v0/b/myhand-bartender.appspot.com/o/easy.jpg?alt=media&token=97df02d8-529d-4fc7-b66a-d04b3b04f83e",
@@ -26,7 +26,7 @@ values.img = [
   "https://firebasestorage.googleapis.com/v0/b/myhand-bartender.appspot.com/o/rain.jpg?alt=media&token=4c1bb8d3-794f-438b-a80b-e143a133de08",
   "https://firebasestorage.googleapis.com/v0/b/myhand-bartender.appspot.com/o/blue.jpg?alt=media&token=a907d347-5252-4b14-bf11-7aeda28c6374",
   "https://firebasestorage.googleapis.com/v0/b/myhand-bartender.appspot.com/o/cool.jpg?alt=media&token=379182fc-90ed-42bd-9346-fbb06e184e49",
-  "https://firebasestorage.googleapis.com/v0/b/myhand-bartender.appspot.com/o/best.jpg?alt=media&token=8fb12fac-e342-4c59-877a-a0e4556b517f"
+  "https://firebasestorage.googleapis.com/v0/b/myhand-bartender.appspot.com/o/best.jpg?alt=media&token=8fb12fac-e342-4c59-877a-a0e4556b517f",
 ];
 
 values.ids = [
@@ -41,7 +41,7 @@ values.ids = [
   "비오는",
   "취하고",
   "청량한",
-  "베스트"
+  "베스트",
 ];
 values.desc = [
   "이렇게 간단해? 초간단 칵테일 모음",
@@ -56,7 +56,7 @@ values.desc = [
   "취하고 싶은 날 마시기 좋은.",
   "대신 다음날 힘들 수 있어요",
   "입안가득 청량감을 느낄 수 있는 상큼달콤한 칵테일 모음",
-  "너무 유명해서 모두가 아는 칵테일"
+  "너무 유명해서 모두가 아는 칵테일",
 ];
 
 values.bar = {};

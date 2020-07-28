@@ -1,58 +1,58 @@
 var objects = {};
 objects.cocktailInfo = {
-    id: undefined,
-    name: undefined,
-    category: undefined,
-    majorCategory: undefined,
-    subCategory: undefined,
-    abv: undefined,
-    description: undefined,
-    isbase: undefined,
-    image: undefined,
-    material: undefined,
-    subMaterial: undefined,
-    recoName: undefined,
-    recoList: undefined,
-    recoImage : undefined,
-    recoABV : undefined,
-    recoDescription : undefined,
-    type: undefined,
-    imageName: undefined
+  id: undefined,
+  name: undefined,
+  category: undefined,
+  majorCategory: undefined,
+  subCategory: undefined,
+  abv: undefined,
+  description: undefined,
+  isbase: undefined,
+  image: undefined,
+  material: undefined,
+  subMaterial: undefined,
+  recoName: undefined,
+  recoList: undefined,
+  recoImage: undefined,
+  recoABV: undefined,
+  recoDescription: undefined,
+  type: undefined,
+  imageName: undefined,
 };
 
 objects.testInfo = {
-    id: undefined,
-    name: undefined,
-    image: undefined,
-    category: undefined,
-    subCategory: undefined,
-    abv: undefined,
-    description: undefined,
-    material: undefined,
-    subMaterial: undefined,
-    isbase: undefined,
-    recoName: undefined,
-    recoList: undefined,
-    recoImage : undefined,
-    recoABV : undefined,
-    recoDescription : undefined,
-    type: undefined
+  id: undefined,
+  name: undefined,
+  image: undefined,
+  category: undefined,
+  subCategory: undefined,
+  abv: undefined,
+  description: undefined,
+  material: undefined,
+  subMaterial: undefined,
+  isbase: undefined,
+  recoName: undefined,
+  recoList: undefined,
+  recoImage: undefined,
+  recoABV: undefined,
+  recoDescription: undefined,
+  type: undefined,
 };
 
 objects.recipeInfo = {
-    cocktail: undefined,
-    cockware: undefined,
-    method: undefined,
-    capacity: undefined,
-    steps: undefined,
-    steplist: undefined
-}
+  cocktail: undefined,
+  cockware: undefined,
+  method: undefined,
+  capacity: undefined,
+  steps: undefined,
+  steplist: undefined,
+};
 
 objects.majors = {
-    repId: undefined,
-    repName: undefined,
-    majorImage:undefined,
-    description:undefined
-}
+  repId: undefined,
+  repName: undefined,
+  majorImage: undefined,
+  description: undefined,
+};
 
 module.exports = objects;
